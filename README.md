@@ -26,6 +26,27 @@
 4. **Volunteer Support** – Volunteers are notified and assist in food collection and delivery.  
 5. **Impact Tracking** – Real-time dashboard displays the number of meals served, food saved from wastage, and the number of volunteers involved.  
 
+## Tech Stack  
+**Frontend:**  
+- **React** – For a dynamic and responsive user interface.  
+- **Tailwind CSS** – Ensures a modern, consistent design and faster UI development.  
+- **PWA (Progressive Web App)** – Provides offline capabilities and a native-like user experience.  
+
+**Backend:**  
+- **Node.js & Express** – For building a scalable and robust backend API.  
+- **WebSocket** – Real-time notifications for donors, volunteers, and community centers.  
+
+**Database:**  
+- **MongoDB** – Flexible and scalable data storage for user data, listings, donations, and meal schedules.  
+
+**Deployment:**  
+- **Docker** – Containerized deployment for easy scaling and management.  
+- **Netlify/Vercel (Frontend)** & **Render/Fly.io (Backend)** – For seamless and cost-effective cloud deployment.  
+
+**Additional Tools:**  
+- **Leaflet.js** – For mapping and navigation, showing donation points and community meal locations.  
+- **IndexedDB** – To store data locally for offline-first functionality.  
+
 ## Impact & Sustainability  
 **SevaKart** aligns with the **United Nations Sustainable Development Goals (SDGs)**:  
 - 🌍 **SDG #2 – Zero Hunger:** Ensures surplus food reaches the needy, reducing hunger.  
