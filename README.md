@@ -1,4 +1,4 @@
-### **SevaKart – Second-Hand Goods for Food Donation**  
+# **SevaKart – Second-Hand Goods for Food Donation**  
 
 ## Overview  
 **SevaKart** is a unique platform that bridges the gap between second-hand goods selling and food donation. It empowers communities to donate surplus food efficiently while funding logistics through a second-hand marketplace. By tracking community meals and connecting donors with the needy, SevaKart ensures that no food goes to waste. The revenue generated from the second-hand platform supports the logistics of food pickup and delivery, creating a sustainable and impactful cycle of giving.  
